@@ -1,0 +1,19 @@
+{
+  "name": "@sofa-rv/skd",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Sofa-RV/skd#readme",
+  "bugs": {
+    "url": "https://github.com/Sofa-RV/skd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sofa-RV/skd.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
